@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/runner/work/techleadmanager/techleadmanager",
+	"sourceRoot": "/home/runner/work/architecture-terminal/architecture-terminal",
 	"sources": [
 		"ananke/css/main.css"
 	],
