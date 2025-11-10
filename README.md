@@ -1,5 +1,5 @@
 
-This repository is a Hugo site powering [https://note.architectureterminal.com](https://note.architectureterminal.com).
+This repository is a Hugo site powering [https://notes.architectureterminal.com](https://notes.architectureterminal.com).
 The built assets live in the `ghpage` branch..
 
 ## Submitting your story?
