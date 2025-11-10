@@ -1,5 +1,5 @@
 
-This repository is a Hugo site powering [techleadmanager.com](https://techleadmanager.com).
+This repository is a Hugo site powering [https://note.architectureterminal.com](https://note.architectureterminal.com).
 The built assets live in the `ghpage` branch..
 
 ## Submitting your story?
